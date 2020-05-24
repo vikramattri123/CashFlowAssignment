@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "5eca197e914fa92c3439a375"
+  },
+  "Name": "Vikram",
+  "email": "vikramattri123@gmail.com",
+  "Age": 21,
+  "gpa": 7.1,
+  "Registration_Id": 1797921,
+  "Batch": 2021,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eca199bd2483f33d8ab8ec3"
+  },
+  "Name": "Ankit",
+  "email": "ankitattri123@gmail.com",
+  "Age": 21,
+  "gpa": 7.1,
+  "Registration_Id": 1797921,
+  "Batch": 2021,
+  "__v": 0
+}]
